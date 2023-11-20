@@ -1,5 +1,5 @@
-# TSFDataProcessing
+# Data Processing - Toronto Science Fair
 
 Authors: Daisy Li, Kelly Wang
 
-This repository contains a Jupyter Notebook that performs the data processing required for our Toronto Science Fair project.
+This repository contains the Jupyter notebook used to perform linear regression and data visualization on the data gathered during the experimentation phase of our Toronto Science Fair project.
