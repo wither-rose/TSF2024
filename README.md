@@ -1,4 +1,4 @@
-# TSF 2024 (Home Optimization of Economical Sterilization)
+# TSF 2024 
 
 Authors: Daisy Li, Kelly Wang
 
