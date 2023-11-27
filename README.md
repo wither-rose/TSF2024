@@ -1,4 +1,4 @@
-# TSF 2024 
+# TSF 2024 (Home Optimization of Sterilization Economically - HOSE)
 
 Authors: Daisy Li, Kelly Wang
 
