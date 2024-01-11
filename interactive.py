@@ -36,10 +36,10 @@ while True:
     print("Your baby bottle is", str(percentage)+"%", "sterilized!")
     # see if the user wants to continue
     cont = ""
-    while cont != "Y" and cont != "N":
+    while cont != "y" and cont != "n":
         cont = input("Do you want to calculate again? (Y/N) ")
     # end the loop if the user doesn't want to continue
-    if cont == "N":
+    if cont == "n":
         break
 print("Thank you for using this program!")
 
