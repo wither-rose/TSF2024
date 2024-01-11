@@ -9,11 +9,11 @@ b = 357.3532013337096 # regression constant
 # information
 print("\t\tSterilization Percentage Calculator")
 print("--------------------------------------------")
-print("This program can calculate the percentage that your baby bottle is sterilized based on how long you submerged the bottle in boiling water.")
+print("This program can calculate the percentage that your baby bottle is sterilized based on how long, in seconds, you submerged the bottle in boiling water.")
 
 while True:
     # take input from the user for the independent variable
-    x = input("Please enter the length of time you submerged your bottle in boiling water: ")
+    x = input("Please enter the length of time, in seconds, that you submerged your bottle in boiling water: ")
     # error trap in case the user does not enter a number value
     try:
         x = float(x)
