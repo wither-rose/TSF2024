@@ -36,7 +36,7 @@ float currentTemp;
 unsigned long start;
 
 /*
- * Setup function. Here we do the basics
+ * Setup function.
  */
 void setup(void)
 {
