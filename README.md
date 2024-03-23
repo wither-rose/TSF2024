@@ -2,4 +2,4 @@
 
 Authors: Daisy Li, Kelly Wang
 
-This repository contains the Jupyter notebook used to perform linear regression and data visualization on the data gathered during the experimentation phase of our Toronto Science Fair project.
+Home Optimization of Sterilization Economically (HOSE) is a project that intends to find the most economical way to sterilize household objects with materials available at home. This repository contains the Jupyter Notebook used to analyze the data with Python Pandas and Scikit-learn, and the Arduino sketch that drives the prototype.
